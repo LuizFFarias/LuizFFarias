@@ -46,8 +46,10 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=LuizFFarias&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="148" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizFFarias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizFFarias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 <h3 align="left">Social Media</h3>
 
